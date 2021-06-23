@@ -2,9 +2,16 @@ Hi Karishma how are you hope you are fine
 how is your project is going on
 this is a message
 this on second line
+<<<<<<< HEAD
 Hello world
 How are you all
 May I Help you
 hello mom how are
 Hello are you are
 I'm on the stash
+=======
+this is on the third line
+hellow world
+line for fetch
+line for fetch1
+>>>>>>> 7418bc97c13f72993cc7536ee5c7a50342e686db
